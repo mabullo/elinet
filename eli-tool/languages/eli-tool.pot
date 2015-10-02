@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eli-tool\n"
+"POT-Creation-Date: 2015-10-02 16:53+0200\n"
+"PO-Revision-Date: 2015-10-02 16:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/hide_setting.php:42
+msgid "Disable unnecessary entries"
+msgstr ""
+
+#: include/hide_setting.php:53
+msgid "Super Admin Name"
+msgstr "Nome super admin"
+
+#: include/hide_setting.php:65
+msgid "Section to clear the parts from the menu that are not needed"
+msgstr "Sezione che cancella le parti non necessarie dal menù"
+
+#: include/policy_setting.php:47
+msgid "Aggiungi bottone disabilita analytics"
+msgstr ""
+
+#: include/policy_setting.php:58
+msgid "Codice di Google Analitycs"
+msgstr ""
+
+#: include/policy_setting.php:69
+msgid "Testo per accettare i cookie"
+msgstr ""
+
+#: include/policy_setting.php:79
+msgid "Colore testo bottone accettazione cookie"
+msgstr ""
+
+#: include/policy_setting.php:88
+msgid "Colore bottone accettazione cookie"
+msgstr ""
+
+#: include/policy_setting.php:99
+msgid "Testo per bottone cookie policy"
+msgstr ""
+
+#: include/policy_setting.php:108
+msgid "Colore testo bottone cookie policy"
+msgstr ""
+
+#: include/policy_setting.php:117
+msgid "Colore bottone cookie policy"
+msgstr ""
+
+#: include/policy_setting.php:128
+msgid "Testo per bottone disabilita cookie"
+msgstr ""
+
+#: include/policy_setting.php:139
+msgid "Colore testo per bottone disabilita cookie"
+msgstr ""
+
+#: include/policy_setting.php:149
+msgid "Colore per bottone disabilita cookie"
+msgstr ""
+
+#: include/policy_setting.php:160
+msgid "Testo per il banner di avviso"
+msgstr ""
+
+#: include/policy_setting.php:171
+msgid "Visualizza il banner nella parte bassa del sito"
+msgstr ""
+
+#: include/policy_setting.php:180
+msgid "Colore testo banner"
+msgstr ""
+
+#: include/policy_setting.php:190
+msgid "Colore sfondo banner"
+msgstr ""
+
+#: include/policy_setting.php:199
+msgid "Accetta proseguendo"
+msgstr ""
+
+#: include/policy_setting.php:210
+msgid "Accetta con lo scroll"
+msgstr ""
+
+#: include/policy_setting.php:221
+msgid "Accetta con i click"
+msgstr ""
+
+#: include/policy_setting.php:232
+msgid "Link Footer"
+msgstr ""
+
+#: include/policy_setting.php:242
+msgid "Aggiungi link Cookie Policy nel footer"
+msgstr ""
+
+#: include/policy_setting.php:254
+msgid "Aggiungi link Privacy Policy nel footer"
+msgstr ""
+
+#: include/policy_setting.php:265
+msgid "Aggiungi link Note Legali nel footer"
+msgstr ""
+
+#: include/policy_setting.php:274
+msgid "Selettore css per il footer"
+msgstr ""
+
+#: include/policy_setting.php:287
+msgid "Sezione per i cookie"
+msgstr ""
+
+#: include/policy_setting.php:291
+msgid "Sezione per i link nel footer"
+msgstr ""
+
+#: index.php:157
+msgid "Id page Cookie Policy"
+msgstr "Id pagina Cookie Policy"
+
+#: index.php:158
+msgid "Id page Privacy Policy"
+msgstr "Id pagina Privacy Policy"
+
+#: index.php:159
+msgid "Id page legal note"
+msgstr "Id pagina note"
+
+#: index.php:163
+msgid "Features"
+msgstr ""
+
+#: index.php:166
+msgid "Cookie Banner and Policy"
+msgstr ""
+
+#: index.php:169
+msgid "Remove functionality for others admin"
+msgstr ""
